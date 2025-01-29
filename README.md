@@ -96,9 +96,7 @@ DeviceNetworkEvents
 
 ---
 
-## Chronological Event Timeline 
-
-# 🚨 Tor Installation & Suspicious Activity Investigation  
+## Chronological Event Timeline  
 
 ## 🛠 Tor Installation and Execution  
 - **5:43:39 AM** – A file named `tor-browser-windows-x86_64-portable-14.0.4.exe` was renamed.  
