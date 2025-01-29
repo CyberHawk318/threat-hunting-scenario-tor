@@ -123,17 +123,6 @@ DeviceNetworkEvents
 
 ---
 
-💡 **Summary:**  
-This timeline suggests the user **installed and executed the Tor Browser**, engaged in web activity over the **Tor network**, and created a **suspicious text file** that was modified multiple times. This activity could indicate **anonymous browsing and potential exfiltration**.  
-
-📌 **Next Steps:**  
-- Investigate the content of `TOR SHOPPING LIST.txt`.  
-- Identify the websites visited during Tor usage.  
-- Analyze system logs for further anomalies.  
-
-🔍 **KQL Queries Used for Analysis:**  
-For a detailed forensic investigation, refer to the [KQL Queries](#) used to extract this data. 🚀
-
 ## Summary
 
 On January 29, 2025, at approximately 5:43 AM, the Tor browser installation process began on the system named "labvm." The installation was followed by the execution of the browser and multiple instances of Firefox.exe, indicating active use of the Tor network. Shortly thereafter, a text file named "TOR SHOPPING LIST.txt" was created, modified, and linked multiple times.
